@@ -1,0 +1,5 @@
+# Regenerated locally. A full InferenceData with posterior predictive is about 100 MB.
+*.nc
+__pycache__/
+.ipynb_checkpoints/
+.venv/
