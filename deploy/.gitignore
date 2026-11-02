@@ -1,2 +1,2 @@
-# Parent gitignore excludes every csv. This simulated training file is part of the example.
+# Simulated training file for the shipping-cost example. Keep it in the repository.
 !train.csv
